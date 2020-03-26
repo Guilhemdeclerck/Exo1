@@ -40,7 +40,7 @@ if __name__ == '__main__':
     print("objet4("+str(objet4.getpr())+","+str(objet4.getpi())+")")
     objet6 = objet1/objet2
     print("objet6("+str(objet6.getpr())+","+str(objet6.getpi())+")")
-    #print("objet7(", abs(objet1),",", abs(objet2))
+    #print("objet7(", abs(objet1),",", abs(objet2)
     objet5 = objet1 == objet2
     print(objet5)
     objet6 = objet1 != objet2
